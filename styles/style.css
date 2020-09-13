@@ -1,0 +1,26 @@
+/* CSS Document */
+*, *::after, *::before {
+  box-sizing:border-box;  
+}
+
+@font-face {
+    font-family: 'ChunkFive';
+    src: url('fonts/chunkfive.eot');
+}
+
+h1 {
+    font-size: 1.3em;
+    text-transform: uppercase;
+    color: white;
+    font-family: ChunkFive; 
+}
+
+header {
+    width: 100%;
+    height: 100%;
+    background-color: #18c1ee;
+    padding: 1em;
+    text-align: center;
+    margin-bottom: 1em;
+}
+
