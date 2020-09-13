@@ -17,3 +17,8 @@ Procesverslag
 Week 1:
 - Eerste opzet van website gemaakt
 - Header gemaakt en opgemaakt 
+
+Week 2:
+- Github volgorde verbeterd
+- Extra pagina + content toegevoegd aan de website
+- Lettertype gezocht en toegepast
