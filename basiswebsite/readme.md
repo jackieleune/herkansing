@@ -73,3 +73,24 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 **Breakdown-schets(en):**
 
 ![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/dummy-image.svg)
+
+
+# herkansing
+
+Auteur: Jackie Leune
+
+link: http://127.0.0.1:53908/index.html
+
+Mijn startniveu is blauw.
+Mijn focus ligt voorlopig op de opmaak.
+
+
+Idee:
+Ik ga de website Tasty.co namaken. 
+
+
+Procesverslag
+
+Week 1:
+- Eerste opzet van website gemaakt
+- Header gemaakt en opgemaakt 
