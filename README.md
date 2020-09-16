@@ -22,3 +22,7 @@ Week 2:
 - Github volgorde verbeterd
 - Extra pagina + content toegevoegd aan de website
 - Lettertype gezocht en toegepast
+
+
+Voortgang gesprek planning
+- Flexbox; blokken naast elkaar zetten
