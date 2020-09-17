@@ -1,0 +1,76 @@
+/* CSS Document */
+*, *::after, *::before {
+  box-sizing:border-box;  
+}
+
+@font-face {
+    font-family: 'ChunkFive';
+    src: url('fonts/chunkfive.eot');
+}
+
+h1 {
+    font-size: 1.3em;
+    text-transform: uppercase;
+    color: white;
+    font-family: ChunkFive; 
+}
+
+header {
+    width: 100%;
+    height: 100%;
+    background-color: #18c1ee;
+    padding: 1em;
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+img.cookies {
+    margin-top: 2em;
+}
+
+img.cookie {
+    width: 10em;
+    height: 10em;
+    margin: 0.3em;
+}
+
+div {
+    position: 
+}
+
+div1 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: red;
+}
+
+p {
+    font-size: 0.9em;
+    color: white;
+}
+
+p1 {
+    font-size: 0.9em;
+}
+
+/* Microinteractie - favorieten */
+p6 {
+    width: 20em;
+    color: white;
+    background-color: black;
+    border-color: black;
+    padding:.5em 1em;
+    border-radius: 40%;
+    margin: 0.6em;
+    transition: 1s ease;
+}
+
+.favoriet {
+    background-color: deeppink;
+    transition: 1s ease;
+    transform: rotate(180deg);
+    
+}
+
+
