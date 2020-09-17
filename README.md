@@ -28,6 +28,10 @@ Week 2:
 - Extra pagina + content toegevoegd aan de website
 - Lettertype gezocht en toegepast
 
+Week 3:
+- Met flexbox gewerk
+- Microinteractie erin gezet
+
 
 Voortgang gesprek planning
 - Flexbox; blokken naast elkaar zetten
