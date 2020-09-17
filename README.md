@@ -11,6 +11,11 @@ Mijn focus ligt voorlopig op de opmaak.
 Idee:
 Ik ga de website Tasty.co namaken. 
 
+Voorbeeldfoto's:
+![alt text](images/tasty1.png)
+![alt text](images/tasty2.png)
+![alt text](images/tasty2.png)
+
 
 Procesverslag
 
