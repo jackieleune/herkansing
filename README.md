@@ -35,10 +35,6 @@ Week 5:
 - Correcte html van website opgezet
 - Flexbox navigatie en grid main gemaakt
 
-
-Mijn startniveu is blauw.
-Mijn focus ligt voorlopig op de opmaak.
-
 Voortgang gesprek 2 planning
 - Max width bij grid toepassen
 - De pagina refreshed wanneer de pop-up wordt afgesloten
@@ -46,6 +42,8 @@ Voortgang gesprek 2 planning
 
 
 
+Mijn startniveu is blauw.
+Mijn focus ligt voorlopig op de opmaak.
 
 Idee:
 Ik ga de website Tasty.co namaken. 
