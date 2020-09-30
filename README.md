@@ -4,18 +4,6 @@ Auteur: Jackie Leune
 
 link: http://127.0.0.1:53908/index.html
 
-Mijn startniveu is blauw.
-Mijn focus ligt voorlopig op de opmaak.
-
-
-Idee:
-Ik ga de website Tasty.co namaken. 
-
-Voorbeeldfoto's:
-![alt text](images/tasty1.png)
-![alt text](images/tasty2.png)
-![alt text](images/tasty2.png)
-
 
 Procesverslag
 
@@ -33,7 +21,7 @@ Week 3:
 - Microinteractie erin gezet
 
 
-Voortgang gesprek planning
+Voortgang gesprek 1 planning
 - Flexbox; blokken naast elkaar zetten
 - Pannenkoeken menu; als er op de website een is, mag je die dan namaken of moet je een andere oplossing bedenken?
 - Java; 360 turn
@@ -46,3 +34,24 @@ Week 5:
 - Animatie en grid oefening gemaakt/begrepen
 - Correcte html van website opgezet
 - Flexbox navigatie en grid main gemaakt
+
+
+Mijn startniveu is blauw.
+Mijn focus ligt voorlopig op de opmaak.
+
+Voortgang gesprek 2 planning
+- Max width bij grid toepassen
+- De pagina refreshed wanneer de pop-up wordt afgesloten
+- Image on hover naar rechtsboven laten bewegen in animatie
+
+
+
+
+Idee:
+Ik ga de website Tasty.co namaken. 
+
+Voorbeeldfoto's:
+![alt text](images/tasty1.png)
+![alt text](images/tasty2.png)
+![alt text](images/tasty2.png)
+
