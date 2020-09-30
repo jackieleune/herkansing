@@ -41,3 +41,8 @@ Voortgang gesprek planning
 
 Week 4:
 - Compleet opnieuw begonnen
+
+Week 5:
+- Animatie en grid oefening gemaakt/begrepen
+- Correcte html van website opgezet
+- Flexbox navigatie en grid main gemaakt
