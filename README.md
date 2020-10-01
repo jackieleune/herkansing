@@ -39,7 +39,7 @@ Voortgang gesprek 2 planning
 - Max width bij grid toepassen
 - De pagina refreshed wanneer de pop-up wordt afgesloten
 - Image on hover naar rechtsboven laten bewegen in animatie
-
+- Site haakt af '???' halverwegen
 
 
 Mijn startniveu is blauw.
