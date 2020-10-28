@@ -24,7 +24,7 @@ Week 3:
 Voortgang gesprek 1 planning
 - Flexbox; blokken naast elkaar zetten
 - Pannenkoeken menu; als er op de website een is, mag je die dan namaken of moet je een andere oplossing bedenken?
-- Java; 360 turn
+- Js; 360 turn
 - let keyword javascript
 
 Week 4:
