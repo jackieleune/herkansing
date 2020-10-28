@@ -41,6 +41,9 @@ Voortgang gesprek 2 planning
 - Image on hover naar rechtsboven laten bewegen in animatie
 - Site haakt af '???' halverwegen
 
+Vakantie + deadline week 
+- Vrijwel alles gedaan wat nodig was
+
 
 Mijn startniveu is blauw.
 Mijn focus ligt voorlopig op de opmaak.
